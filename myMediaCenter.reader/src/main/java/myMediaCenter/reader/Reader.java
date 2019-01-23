@@ -22,7 +22,7 @@ public class Reader extends Application {
 		
 		/* set scene */
 		final WindowController controller = fxmlLoader.getController();
-		controller.setPathMedia("/home/vivien/Images/test.mp4");
+		controller.setPathMedia("/home/vivien/Images/test1.mp4");
 		Scene scene = new Scene(rootLayout);
 		scene.setFill(Color.BLACK);
 		
